@@ -1,0 +1,91 @@
+
+folder => stagging => local repository => remote repository(GitHub)
+
+
+
+=> git --version
+=> git -help => git --help(details)
+
+=> git config   => git config --help
+=>git config --list
+=> for quit/exit => :q
+=> git config user.name
+=> git config user.email
+username globally set => git config --global user.name "mehedihasanfarabi10"
+
+ssh key diye credentials setup kore nite hobe video dekhe
+ssh key git er sathe github er secure connection generate
+
+
+kono folder ke jodi git e porinoto korte hoy then
+=> git init
+akti git file duti thake 1. tracked 2. untracked
+
+kon file e kicu change korle seta dekhar jnne 2n setup
+=> git add . (all file)
+=> git add text.txt (single file)
+=> it is called stagging stage
+
+=> kotota change hoyece seta dekhte
+=> git status or => git diff
+=> git add filename => for keep changes
+=> git restore filename => for restore
+
+staging area to local repository 
+=> git commit -m "1st version" =>-m for message
+for see the version number 
+=> git log
+=> git log --online (small info)
+for every version there is a unique id
+
+local repository to stagging area back 
+=> git reset --soft comitId (or)
+=> git reset --soft HEAD 
+=> git status
+
+local repository to folder stage 
+=> git reset commitId
+=> => git reset --hard HEAD
+
+again jodi add kori ba 2nd commit add kori
+
+=> git add .
+=> git commit -m "laravel2ndVersion"
+
+akta commit theke arekta commit jete 
+=> git checkout commitId(6 digit)
+
+go back to current version 
+=> git checkout master
+
+Remotely add korar jonne 
+=> git remote add origin link from github
+for check => git remote
+for check => git remote -v
+
+
+master to main convert =>
+=> git branch -M main
+
+=> git push -u origin main
+ 
+erpor jodi kono code add kore github update korte chai
+=> git add .
+=> git commit -m "2nd commit"
+=> git push
+
+.gitignore 
+for file => filename.txt
+for folder => foldername/
+
+
+
+
+
+
+
+
+
+
+
+
