@@ -81,6 +81,9 @@ for folder => foldername/
 github e direct edit kora file local repository te nite hole pull use hoy
 => git pull
 
+github e direct edit kora file local repository te nite hole pull use hoy
+=> git pull
+
 
 ****************
 
