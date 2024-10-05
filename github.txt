@@ -35,7 +35,7 @@ staging area to local repository
 => git commit -m "1st version" =>-m for message
 for see the version number 
 => git log
-=> git log --online (small info)
+=> git log --oneline (small info)
 for every version there is a unique id
 
 local repository to stagging area back 
@@ -78,7 +78,11 @@ erpor jodi kono code add kore github update korte chai
 for file => filename.txt
 for folder => foldername/
 
+github e direct edit kora file local repository te nite hole pull use hoy
+=> git pull
 
+
+****************
 
 
 
