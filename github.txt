@@ -78,6 +78,9 @@ erpor jodi kono code add kore github update korte chai
 for file => filename.txt
 for folder => foldername/
 
+github e direct edit kora file local repository te nite hole pull use hoy
+=> git pull
+
 
 
 
