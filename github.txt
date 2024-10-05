@@ -87,7 +87,21 @@ github e direct edit kora file local repository te nite hole pull use hoy
 
 ****************
 
+Branch check and make
 
+=> git branch
+=> git branch name
+=> Switching new branch => git checkout name
+
+After changing done
+
+=> git add .
+=> git commit -m ""
+
+
+Merge to main
+=> git checkout main
+=> git merge name(new branch name)
 
 
 
